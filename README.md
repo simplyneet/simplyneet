@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Max / simplyneet
 
-🚀 **Python & JavaScript Developer** | Open Source Enthusiast | Building tools that make dev life easier
+🚀 **Python Developer** | Open Source Enthusiast | Building tools that make dev life easier
 
 ---
 
@@ -13,14 +13,14 @@
 
 ---
 
-## 📦 Package Profiles
+## 📦 PyPI Packages
 
 <div align="center">
-  <a href="https://pypi.org/user/zzzneet">
-    <img src="https://img.shields.io/pypi/v/simplyneet?style=for-the-badge&logo=python&logoColor=white" alt="PyPI"/>
+  <a href="https://pypi.org/project/vaultsphere">
+    <img src="https://img.shields.io/pypi/v/vaultsphere?style=for-the-badge&logo=python&logoColor=white" alt="VaultSphere"/>
   </a>
-  <a href="https://www.npmjs.com/~zzzneet">
-    <img src="https://img.shields.io/npm/v/simplyneet?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <a href="https://pypi.org/project/veil">
+    <img src="https://img.shields.io/pypi/v/veil?style=for-the-badge&logo=python&logoColor=white" alt="Veil"/>
   </a>
 </div>
 
@@ -38,15 +38,6 @@
 
 ## 🐍 Featured Python Libraries
 
-<div align="center">
-  <a href="https://pypi.org/project/vaultsphere">
-    <img src="https://img.shields.io/pypi/v/vaultsphere?style=for-the-badge&logo=python&logoColor=white" alt="VaultSphere"/>
-  </a>
-  <a href="https://pypi.org/project/veil">
-    <img src="https://img.shields.io/pypi/v/veil?style=for-the-badge&logo=python&logoColor=white" alt="Veil"/>
-  </a>
-</div>
-
 | Library       | Description                                         | PyPI Link |
 |---------------|-----------------------------------------------------|-----------|
 | **VaultSphere** | Encrypted local database (NoSQL) with interactive CLI | [PyPI](https://pypi.org/project/vaultsphere) |
@@ -62,9 +53,6 @@
   </a>
   <a href="https://pypi.org/user/simplyneet">
     <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyPI"/>
-  </a>
-  <a href="https://www.npmjs.com/~simplyneet">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   </a>
 </div>
 
