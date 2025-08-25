@@ -16,10 +16,10 @@
 ## 📦 Package Profiles
 
 <div align="center">
-  <a href="https://pypi.org/user/simplyneet">
+  <a href="https://pypi.org/user/zzzneet">
     <img src="https://img.shields.io/pypi/v/simplyneet?style=for-the-badge&logo=python&logoColor=white" alt="PyPI"/>
   </a>
-  <a href="https://www.npmjs.com/~simplyneet">
+  <a href="https://www.npmjs.com/~zzzneet">
     <img src="https://img.shields.io/npm/v/simplyneet?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   </a>
 </div>
